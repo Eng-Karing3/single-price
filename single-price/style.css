@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+.two{
+    display: flex;
+}
+
+.all{
+    width: 100%;
+}
+.card{
+    width: 28%;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+
+.join{
+    width: 100%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.community{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    color: hsl(200, 5%, 37%);
+}
+
+.monthly-subscription{
+    background-color: hsl(179, 51%, 42%);
+    border-bottom-left-radius: 10px;
+    color: hsl(190, 15%, 92%);
+}
+
+
+.why-us{
+    background-color: hsl(179, 82%, 44%);
+    border-bottom-right-radius: 10px;
+    color: hsl(190, 15%, 92%);
+}
+
+.sub{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+.us{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+
+button{
+    width: 80%;
+    padding: 10px;
+    background-color: hsl(71, 73%, 54%);
+    border: none;
+    border-radius: 5px;
+}
+h2{
+    color: hsl(179, 82%, 44%);
+}
+
+h3{
+    color: hsl(71, 73%, 54%)
+}
